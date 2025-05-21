@@ -10,7 +10,6 @@ Original file is located at
 """
 
 # 📦 Installation (nur 1x nötig)
-!pip install -q transformers datasets newsapi-python
 
 # 📚 Imports
 from transformers import pipeline
